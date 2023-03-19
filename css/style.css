@@ -1,0 +1,22 @@
+
+.meal-layer{
+    width: 100%;
+    height: 100%;
+    background-color: #f9f6f6ca;
+    top: 100%;
+    transition: 0.5s;
+    
+}
+
+ .card:hover .meal-layer {
+    
+    top:0%;
+}
+
+.card_ingre {
+    cursor: pointer;
+}
+.d {
+    text-decoration: none;
+    color: white;
+}
